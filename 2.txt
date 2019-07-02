@@ -1,8 +1,5 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of 8295b0a... add sign 3
 sdasda
 asdasd
 
@@ -10,12 +7,9 @@ dsad
 
 da
 sd
-<<<<<<< HEAD
 =======
 asdasdasdasdasdas`
 >>>>>>> parent of e4a26d0... Revert "add sign"
 =======
 asdasdasdasdasdas`
 >>>>>>> parent of e4a26d0... Revert "add sign"
-=======
->>>>>>> parent of 8295b0a... add sign 3
