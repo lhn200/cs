@@ -1,8 +1,15 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+sdasda
+asdasd
 
 dsad
 
 da
 sd
+=======
 asdasdasdasdasdas`
+>>>>>>> parent of e4a26d0... Revert "add sign"
+=======
 asdasdasdasdasdas`
-asdasdasdasdasdas`
+>>>>>>> parent of e4a26d0... Revert "add sign"
